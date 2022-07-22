@@ -1,0 +1,1 @@
+Moon, Y., Ryoo, I. and Kim, S., 2021. Face antispoofing method using color texture segmentation on fpga. Security and Communication Networks, 2021.

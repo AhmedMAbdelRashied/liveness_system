@@ -1,0 +1,7 @@
+*.zip
+*.docx
+*.h5
+test_images
+Flutterapp
+Flask_pro
+__pycache__
