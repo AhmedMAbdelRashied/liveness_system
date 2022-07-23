@@ -8,6 +8,7 @@
 ## System Overview
 
 We combine prompt-based authentication with liveness detection in a ![client](https://github.com/Ahmed-Rushdi/liveness_system/tree/master/Client)-![server](https://github.com/Ahmed-Rushdi/liveness_system/tree/master/server) environment.
+
 Prompts are {'left', 'right', 'smile'}
 
 ![plot](https://github.com/Ahmed-Rushdi/liveness_system/blob/e907cec8c84fcb1c7b7efebaff9476913b110372/image.png)
