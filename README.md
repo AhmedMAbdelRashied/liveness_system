@@ -1,7 +1,21 @@
-# Facial Recognition System with Anti-spoofing measures and Liveness Detection Models.
+# Facial Recognition System with Anti-spoofing Measures and Liveness Detection Models.
+Bachelor's degree graduation project that aims to find a better solution to prevent replay attacks on face recognition system
+## Team members
+1. Ahmed Mohamed AbdelRashied ahmedm.abdelrashied@gmail.com
+2. Ahmed Rushdi Mohammed 
+3. Aoss Majed Sultan Zaid 
+4. Eslam Nasser Abdelqader 
+5. Mohammed Walid Moahmmed 
+6. Moahmmed ElSayed AbdelHamid
+
+## Datasets
+1. CASIA-MFSD
+   is a confidential dataset containing videos for the team members combined with videos collected from YouTube by us to meet our case 
+2. Our Dataset
+   is a dataset for face anti-spoofing. , and 12 videos for each subject under different resolutions and light conditions. Three various spoof attacks are designed: replay, warp print and cut print attacks.
 * Experimentation
 * System Overview
-## Experimenation
+## Experimentation
 ![Expermimentation](https://github.com/Ahmed-Rushdi/liveness_system/tree/master/Trainig_preprocessing_misc)
  with the different liveness detection models in [1], [2], [3] and Volumetric CNN.
 
